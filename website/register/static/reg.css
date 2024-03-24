@@ -1,0 +1,16 @@
+body{
+    
+  font-family: Arial;
+}
+
+input[type=text] {
+background-color: bisque;
+}
+input[type=number] {
+    background-color: bisque;
+}
+
+input[type=submit] {
+    height:20px;
+    width:100px;
+}
